@@ -1,0 +1,12 @@
+.venv/
+.venv-gpu/
+__pycache__/
+*.log
+*.bak
+models/
+real_docs/
+real_out/
+north_docs*/
+samples/
+outputs/
+hwtest/
